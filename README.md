@@ -52,4 +52,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-This project is licensed under the License. See `LICENSE` for more details.
+This project is licensed under the MIT License. See `LICENSE` for more details.
